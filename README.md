@@ -1,5 +1,5 @@
 # anonymous-submission
-Lazy-Batched Key-Switching Framework for Accelerating Homomorphic Encryption
+Lazy-Batched Key-Switching Framework for Accelerating Homomorphic Evaluation
 
 ## Requirements
 - C++ compiler (g++ ≥ 9.4.0)
